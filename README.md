@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Mateus dos Santos, i'm 16 years old, i live in Bahia, Brazil and i'm currently a high school student at Instituto Federal de Ciência, Educação e Tecnologia Baiano - Campus Teixeira de Freitas.
-My current goal is to become a Full Stack Web Developer, and as you could see in my repositories, i'm current learning HTML, CSS and Javascript, but i'm open to learn other technologies such as React, Node.js and Python.
